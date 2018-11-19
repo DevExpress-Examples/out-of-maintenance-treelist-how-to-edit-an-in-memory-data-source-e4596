@@ -1,1 +1,1 @@
-<%@ Application Codebehind="Global.asax.vb" Inherits="TreeListEditing.MvcApplication" Language="vb" %>
+<%@ Application Codebehind="Global.asax.vb" Inherits="TreeListEditing.MvcApplication" Language="VB" %>

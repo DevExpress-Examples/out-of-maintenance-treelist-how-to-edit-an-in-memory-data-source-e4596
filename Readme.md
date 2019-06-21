@@ -6,6 +6,9 @@
 * **[TreeListPartial.cshtml](./CS/TreeListEditing/Views/Home/TreeListPartial.cshtml)**
 <!-- default file list end -->
 # TreeList - How to edit an in-memory data source
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4596)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to bind the MVC TreeList Extension with an in-memory datasource with the enabled editing capabilities.</p>

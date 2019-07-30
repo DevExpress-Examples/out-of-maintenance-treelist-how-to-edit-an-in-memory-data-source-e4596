@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # TreeList - How to edit an in-memory data source
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4596)**
+**[[Run Online]](https://codecentral.devexpress.com/e4596/)**
 <!-- run online end -->
 
 
